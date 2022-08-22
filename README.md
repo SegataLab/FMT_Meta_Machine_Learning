@@ -6,7 +6,7 @@ The code in this repository reproduces display items of the Machine Learning sec
 
 In order to set up your environment to be able to run this code, start by installing conda (as described under this link https://conda.io/projects/conda/en/latest/user-guide/install/index.html). Then create a fresh conda environment using the `.yml` file in this repository like so
 
-conda env create -f FMT.yml
+`conda env create -f FMT.yml`
 
 This will create a new environment called `FMT` which you can activate by typing `conda activate FMT` after the environment was succesfully set up.
 
